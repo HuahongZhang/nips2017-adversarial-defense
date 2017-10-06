@@ -1,0 +1,6 @@
+{
+  "type": "defense",
+  "container": "tladyman/tensorflow:1.1.0-scipy",
+  "container_gpu": "tladyman/tensorflow:1.1.0-gpu-scipy",
+  "entry_point": "run_defense.sh"
+}
